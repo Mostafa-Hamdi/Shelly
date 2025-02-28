@@ -56,7 +56,7 @@ textarea:focus {
   outline: none;
 }
 .hero-section {
-  background-image: url("./src/assets/banner-bg.png");
+  background-image: url("./assets/banner-bg.png");
   background-repeat: no-repeat;
   background-position: top right;
   background-size: contain;
@@ -306,7 +306,7 @@ nav ul.links li {
   width: 120px; /* Set the desired width */
   height: 100px; /* Set the desired height */
   z-index: -1;
-  background-image: url("./src/assets/sec-bg.png"); /* Use background-image */
+  background-image: url("./assets/sec-bg.png"); /* Use background-image */
   background-size: contain; /* Make sure the image covers the area */
   background-repeat: no-repeat;
 }
@@ -441,7 +441,7 @@ footer a:hover {
   height: 150px;
   transform: rotate(90deg);
   background-repeat: no-repeat;
-  background-image: url(./src/assets/sec-bg.png);
+  background-image: url(./assets/sec-bg.png);
   background-size: contain;
 }
 .course-img::after {
@@ -453,7 +453,7 @@ footer a:hover {
   height: 150px;
   transform: rotate(269deg);
   background-repeat: no-repeat;
-  background-image: url(./src/assets/circle5.png);
+  background-image: url(./assets/circle5.png);
   background-size: contain;
 }
 @media (min-width: 1280px) {
