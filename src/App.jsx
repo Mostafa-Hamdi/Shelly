@@ -2,6 +2,7 @@ import Layout from "./Layout";
 import "./App.css";
 import AOS from "aos";
 import "aos/dist/aos.css";
+
 import { useEffect } from "react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Home from "./pages/home/page";
